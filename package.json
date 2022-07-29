@@ -8,20 +8,11 @@
     "start": "node index",
     "start:dev": "nodemon index"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TatianaSierkova/nodejs-homework-01.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/TatianaSierkova/nodejs-homework-01/issues"
-  },
-  "homepage": "https://github.com/TatianaSierkova/nodejs-homework-01#readme",
   "dependencies": {
     "commander": "^9.4.0",
-    "cors": "^2.8.5",
     "nanoid": "^4.0.0"
   },
   "devDependencies": {
